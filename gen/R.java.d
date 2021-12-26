@@ -1,0 +1,14 @@
+/storage/emulated/0/.sketchware/mysc/639/gen/com/gn/map/R.java \
+/storage/emulated/0/.sketchware/mysc/639/gen/androidx/appcompat/R.java \
+/storage/emulated/0/.sketchware/mysc/639/gen/androidx/core/R.java \
+/storage/emulated/0/.sketchware/mysc/639/gen/androidx/appcompat/resources/R.java \
+/storage/emulated/0/.sketchware/mysc/639/gen/androidx/coordinatorlayout/R.java \
+/storage/emulated/0/.sketchware/mysc/639/gen/com/google/android/material/R.java \
+/storage/emulated/0/.sketchware/mysc/639/gen/androidx/transition/R.java \
+/storage/emulated/0/.sketchware/mysc/639/gen/androidx/cardview/R.java \
+/storage/emulated/0/.sketchware/mysc/639/gen/androidx/recyclerview/R.java \
+/storage/emulated/0/.sketchware/mysc/639/gen/com/google/android/gms/common/R.java \
+/storage/emulated/0/.sketchware/mysc/639/gen/com/google/android/gms/base/R.java \
+/storage/emulated/0/.sketchware/mysc/639/gen/com/google/android/gms/maps/R.java \
+/storage/emulated/0/.sketchware/mysc/639/gen/com/airbnb/lottie/R.java \
+/storage/emulated/0/.sketchware/mysc/639/gen/com/cyberalpha/iOSDialog/R.java \
